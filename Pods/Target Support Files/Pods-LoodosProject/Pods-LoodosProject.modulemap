@@ -1,0 +1,6 @@
+framework module Pods_LoodosProject {
+  umbrella header "Pods-LoodosProject-umbrella.h"
+
+  export *
+  module * { export * }
+}
